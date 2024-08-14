@@ -1,0 +1,100 @@
+body {
+    background-color: aquamarine;
+}
+
+.boxwrapper {
+    background-color: whitesmoke;
+    width: 450px;
+    height: 117px;
+    border-style: ridge;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.form {
+    text-align: center;
+    margin-left: 140px;
+    margin-top: -103px;
+}
+
+.form input {
+    width: 270px;
+    margin-top: 3px;
+}
+
+.boxwrapper h3 {
+    margin: 10px;
+}
+
+.container {
+    background-color: whitesmoke;
+    width: 450px;
+    height: 117px;
+    border-style: ridge;
+    margin-left: 20px;
+}
+
+.inbox {
+    text-align: center;
+    margin-left: 140px;
+    margin-top: -106px;
+}
+
+.inbox input {
+    width: 270px;
+    margin-top: 3px;
+}
+
+.container h3{
+    margin: 10px;
+}
+
+.holder {
+    background-color: whitesmoke;
+    width: 450px;
+    height: 220px;
+    margin-left: 488px;
+    border-style: ridge;
+    margin-top: -235px ;
+}
+
+.folder {
+    text-align: center;
+    margin-left: 140px;
+    margin-top: -187px;
+}
+
+.holder h3 {
+    margin: 10px;
+}
+
+.folder input {
+    width: 270px;
+    margin-top: 2px;
+}
+
+.btn button {
+    margin-left: 973px;
+    background-color:white;
+    border-style: none;
+    margin-top: 7px;
+    width: 80px;
+}
+
+.btn {
+    margin-top: -200px;
+}
+
+.bnb button {
+    margin-top: 15px;
+    color: rgb(39, 71, 6);
+    margin-left: 50px;
+    background-color: rgb(180, 81, 101);
+    width: 100px;
+}
+
+.bnb {
+    margin-top: 200px;
+    margin-left: 380px;
+   
+}
